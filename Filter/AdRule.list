@@ -1,1 +1,3 @@
-DOMAIN-SUFFIX, jpg.qzmqda.com,REJECT
+# Sigu
+DOMAIN-SUFFIX,jpg.qzmqda.com,REJECT
+DOMAIN-SUFFIX,api.sd024.cn,REJECT
