@@ -1,3 +1,43 @@
 # Sigu
 DOMAIN-SUFFIX,jpg.qzmqda.com,REJECT
 DOMAIN-SUFFIX,api.sd024.cn,REJECT
+
+#spotify
+DOMAIN-SUFFIX, ads-fa.spotify.com, reject
+DOMAIN-SUFFIX, adeventtracker.spotify.com, reject
+DOMAIN-SUFFIX, analytics.spotify.com, reject
+DOMAIN-SUFFIX, log.spotify.com, reject
+DOMAIN-SUFFIX, weblb-wg.gslb.spotify.com, reject
+#DOMAIN-SUFFIX, spclient.wg.spotify.com, reject
+
+#doubleclick
+DOMAIN-SUFFIX, adclick.g.doublecklick.net, reject
+DOMAIN-SUFFIX, ddoubleclick.net, reject
+DOMAIN-SUFFIX, googleads.g.doubleclick.net, reject
+DOMAIN-SUFFIX, pagead46.l.doubleclick.net, reject
+DOMAIN-SUFFIX, pagead2.googlesyndication.com, reject
+DOMAIN-SUFFIX, partner.googleadservices.com, reject
+DOMAIN-SUFFIX, pubads.g.doubleclick.net, reject
+DOMAIN-SUFFIX, securepubads.g.doubleclick.net , reject
+DOMAIN-SUFFIX, video-ad-stats.googlesyndication.com, reject
+DOMAIN-SUFFIX, www.googleadservices.com, reject
+DOMAIN-SUFFIX, www.googletagservices.com, reject
+DOMAIN-SUFFIX, tpc.googlesyndication.com, reject
+DOMAIN-SUFFIX, redirector.gvt1.com, reject
+
+#others
+DOMAIN-SUFFIX, bounceexchange.com, reject
+DOMAIN-SUFFIX, bs.serving-sys.com, reject
+DOMAIN-SUFFIX, content.bitsontherun.com, reject
+DOMAIN-SUFFIX, core.insightexpressai.com, reject
+DOMAIN-SUFFIX, d2gi7ultltnc2u.cloudfront.net, reject
+DOMAIN-SUFFIX, d3rt1990lpmkn.cloudfront.net, reject
+DOMAIN-SUFFIX, ds.serving-sys.com, reject
+DOMAIN-SUFFIX, gads.pubmatic.com, reject
+DOMAIN-SUFFIX, gtssl2-ocsp.geotrust.com, reject
+DOMAIN-SUFFIX, js.moatads.com, reject
+DOMAIN-SUFFIX, media-match.com, reject
+DOMAIN-SUFFIX, omaze.com, reject
+DOMAIN-SUFFIX, www.omaze.com, reject
+DOMAIN-SUFFIX, s0.2mdn.net, reject
+DOMAIN-SUFFIX, v.jwpcdn.com, reject
