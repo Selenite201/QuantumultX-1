@@ -1,3 +1,8 @@
+/*
+by 野比
+添加MITM = mobile-api.adguard.com
+*/
+
 var body = $response.body;
 var obj = JSON.parse(body);
 
