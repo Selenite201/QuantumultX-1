@@ -1,6 +1,7 @@
 /*
 by 野比
-添加MITM = mobile-api.adguard.com
+1.添加MITM = mobile-api.adguard.com
+2.URL正则：https:\/\/mobile-api\.adguard\.com\/api\/1\.0\/status\.html url script-response-body https://raw.githubusercontent.com/xixaxoqiqaqo/QuantumultX/master/Filter/adguard.js
 */
 
 var body = $response.body;
