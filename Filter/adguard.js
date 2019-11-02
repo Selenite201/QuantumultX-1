@@ -19,3 +19,7 @@ obj['subscription'] = null;
 body = JSON.stringify(obj);
 
 $done({body});
+
+/**
+ * @supported 7DD9F201 F692B200
+*/
