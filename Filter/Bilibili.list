@@ -1,5 +1,4 @@
 # Bilibili
-USER-AGENT,*bili*
 PROCESS-NAME,com.bilibili.app.in
 PROCESS-NAME,tv.danmaku.bili
 DOMAIN-KEYWORD,bilibili
